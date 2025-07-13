@@ -20,7 +20,7 @@ Website perpustakaan digital (E-Library) berbasis web yang saya buat untuk menyi
 
 ## 🗂️ Struktur File
 E-Library/
-├── Home.php
+├── Home.php <br>
 ├── Home.css
 ├── Gallery.php
 ├── Gallery.css
