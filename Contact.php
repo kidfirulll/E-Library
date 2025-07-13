@@ -21,7 +21,6 @@
     </p>
   </div>
 
-  <!-- Kontak -->
   <div class="row justify-content-center">
     <div class="col-md-6">
       <div class="contact-card bg-dark p-4 rounded text-light shadow">
