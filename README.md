@@ -19,30 +19,30 @@ Website perpustakaan digital (E-Library) berbasis web yang saya buat untuk menyi
 - GitHub untuk manajemen kode
 
 ## 🗂️ Struktur File
-E-Library/
+E-Library/   <br>
 ├── Home.php <br>
-├── Home.css
-├── Gallery.php
-├── Gallery.css
-├── KoneksiGallery.php
-├── Download.php (Untuk Koneksi dari Tombol Download)
-├── Contact.php
-├── Contact.css
-├── Profil.php
-├── Profil.css
-├── KoneksiUser.php ( Koneksi ke database dengan file login dan signup)
-├── SignUp.php
-├── ProsesSign.php
-├── Login.php
-├── ProsesLogin.php
-├── Form.css (css dari login dan signup)
-├── Navbar.php
-├── Footer.php
-├── Nav_Foot.css (css navbar dan footer)
-├── Logout.php
-├── elibrary.sql (import ke database MySQL)
-├── 1.png (Untuk Logo)
-└── README.md
+├── Home.css <br>
+├── Gallery.php <br>
+├── Gallery.css <br>
+├── KoneksiGallery.php <br>
+├── Download.php (Untuk Koneksi dari Tombol Download) <br>
+├── Contact.php <br>
+├── Contact.css <br>
+├── Profil.php <br>
+├── Profil.css <br>
+├── KoneksiUser.php ( Koneksi ke database dengan file login dan signup) <br>
+├── SignUp.php <br>
+├── ProsesSign.php <br>
+├── Login.php <br>
+├── ProsesLogin.php <br>
+├── Form.css (css dari login dan signup) <br>
+├── Navbar.php <br>
+├── Footer.php <br>
+├── Nav_Foot.css (css navbar dan footer) <br>
+├── Logout.php <br>
+├── elibrary.sql (import ke database MySQL) <br>
+├── 1.png (Untuk Logo) <br>
+└── README.md <br>
 
 noted : untuk isi dari elibrary.sql kamu bisa menambahkannya secara manual ke dalam database secara langsung bukan melalui website 
 
