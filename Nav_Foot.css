@@ -1,0 +1,41 @@
+.custom-navbar{
+    background-color: #1a237e;
+    border-bottom: 3px solid black;
+}
+
+.navbar-brand {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  color: #fff;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.logo-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+  object-fit: cover;
+}
+
+.navbar-toggler{
+  border-color: #fff;
+}
+
+.custom-footer {
+  background-color: #1a237e;
+  border-top: 3px solid black;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.95rem;
+}
+
+.custom-footer .text-muted {
+  color: #ccc !important;
+}

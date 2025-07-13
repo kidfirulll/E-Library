@@ -1,0 +1,38 @@
+.custom-profile-card {
+  background-color: #1c2331;
+  border: 1px solid #1a237e;
+  border-radius: 16px;
+  padding: 25px;
+}
+
+.card-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.6rem;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.card-text, .card-body li, .card-body p {
+  color: #d0d6e2;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.card-body h6 {
+  margin-top: 25px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+ul {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.cinzel-heading {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 1px;
+}

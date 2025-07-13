@@ -1,0 +1,19 @@
+.hero-section {
+  background: linear-gradient(180deg, #1a237e, #0d1117);
+  padding: 100px 20px;
+  min-height: 80vh;
+}
+
+.btn-outline-light:hover {
+  background-color: #1a237e;
+  color: white;
+}
+
+h1, h5 {
+  font-family: 'Cinzel', serif;
+}
+
+h3 {
+  color: navy;
+
+}
