@@ -10,7 +10,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
 
-    // Cek username sudah ada atau belum
     $cek = mysqli_query($conn, "SELECT * FROM users WHERE username='$username'");
     if (mysqli_num_rows($cek) > 0) {
         echo "<script>alert('Username sudah terdaftar'); history.back();</script>";
