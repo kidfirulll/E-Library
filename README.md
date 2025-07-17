@@ -1,6 +1,6 @@
 # 📚 E-Library Website
 
-Website perpustakaan digital (E-Library) berbasis web yang saya buat untuk menyimpan, menampilkan, dan mengelola koleksi buku digital.
+Website perpustakaan digital (E-Library) berbasis web, untuk menyimpan, menampilkan, dan mengelola koleksi buku digital.
 
 ## 🧩 Fitur Utama
 - Halaman **Home** berisi informasi umum
